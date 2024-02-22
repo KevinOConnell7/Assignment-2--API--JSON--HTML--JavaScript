@@ -7,12 +7,12 @@ Class: CS:3980:0001
 
 ## Screenshot of HTML
 
-Here is a screen shot of my HTML file in Visual Studio Code in this you can see where the table is made.
+Here is a screen shot of my HTML file in Visual Studio in this you can see where the table is made.
 
 <img width="1015" alt="Screen Shot 2024-02-22 at 2 32 11 PM" src="https://github.com/KevinOConnell7/Assignment-2--API--JSON--HTML--JavaScript/assets/45603150/ee29a682-ee9d-4111-8299-89fdb3dbb3aa">
 
 
-Here is a screenshot of my HTML file in Visualstudio code and in this you can see the Java Script code with the fetch.
+Here is a screenshot of my HTML file in Visual Studio and in this you can see the Java Script code with the fetch.
 
 <img width="1019" alt="Screen Shot 2024-02-22 at 2 32 35 PM" src="https://github.com/KevinOConnell7/Assignment-2--API--JSON--HTML--JavaScript/assets/45603150/e599bab8-01a1-4aef-8b1d-308419421c96">
 
